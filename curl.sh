@@ -1,0 +1,1 @@
+zig build-exe curl.zig --library curl && ./curl && rm curl
