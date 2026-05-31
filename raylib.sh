@@ -1,1 +1,0 @@
-zig build-exe raylib.zig -lc -lraylib && ./raylib && rm ./raylib
